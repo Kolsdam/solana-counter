@@ -30,7 +30,7 @@ To execute, follow these steps:
 
 ## Author
 
-[Damola](https://github.com/Damkols)
+[Damola](https://github.com/kolsdam)
 
 ## License
 
